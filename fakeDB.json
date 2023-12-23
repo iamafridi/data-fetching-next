@@ -1,0 +1,41 @@
+{
+    "posts":[
+        {
+          "id": 1,
+          "title": "Nature's Symphony",
+          "description": "Experience the breathtaking beauty of nature in this visual journey through serene landscapes and vibrant ecosystems. From majestic mountains to tranquil rivers, immerse yourself in the harmony of Earth's wonders.",
+          "like_count": 1500
+        },
+        {
+          "id": 2,
+          "title": "The Art of Cuisine",
+          "description": "Delve into the world of gastronomy with this culinary exploration. Discover diverse flavors, innovative recipes, and the cultural significance behind each dish, celebrating the essence of food as art.",
+          "like_count": 2300
+        },
+        {
+          "id": 3,
+          "title": "Exploring the Cosmos",
+          "description": "Embark on an astronomical odyssey, unraveling the mysteries of the universe. Traverse galaxies, witness cosmic phenomena, and contemplate the vastness that extends beyond our comprehension.",
+          "like_count": 3200
+        },
+        {
+          "id": 4,
+          "title": "Urban Rhythms",
+          "description": "Dive into the pulse of bustling cities worldwide. Capture the essence of urban life, from bustling streets to hidden corners, revealing the diverse cultures and energies that shape our cities.",
+          "like_count": 2800
+        },
+        {
+          "id": 5,
+          "title": "Mindful Meditation",
+          "description": "Find tranquility and inner peace through mindful practices. Explore mindfulness techniques that foster mental clarity, emotional balance, and overall well-being in daily life.",
+          "like_count": 1900
+        },
+        {
+          "id": 6,
+          "title": "Creativity Unleashed",
+          "description": "Uncover the boundless realms of creativity across various domains. Witness the fusion of innovation and imagination, igniting inspiration and pushing the boundaries of human expression.",
+          "like_count": 2600
+        }
+      ]
+      
+}
